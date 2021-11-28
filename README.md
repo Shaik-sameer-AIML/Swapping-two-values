@@ -34,7 +34,7 @@ n1,n2 = n2,n1
 print("Swapped values are:",n1,n2)
 
 ## output:
-![output]()
+![output](https://github.com/Shaik-sameer-AIML/Swapping-two-values/blob/main/swapping%20of%20two%20variables.JPG?Raw=true)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
